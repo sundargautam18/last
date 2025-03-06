@@ -5,6 +5,7 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "type": "module",
+  "private": false,
   "types": "dist/index.d.ts",
   "files": [
     "dist"
