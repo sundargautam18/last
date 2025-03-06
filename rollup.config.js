@@ -24,7 +24,7 @@ export default {
     resolve(),
     commonjs(),
     typescript({ tsconfig: "./tsconfig.json" }),
-    postcss({ extract: true }), // Enable CSS processing
+    postcss({ extract: "styles.css" }), // Enable CSS processing
   ],
   external: ["react", "react-dom"],
 };

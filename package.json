@@ -28,6 +28,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "photojournalism-electroconvulsive": "^1.0.0"
+    "photojournalism-electroconvulsive": "^1.0.1"
   }
 }
