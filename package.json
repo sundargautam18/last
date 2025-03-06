@@ -1,6 +1,6 @@
 {
   "name": "photojournalism-electroconvulsive",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple React component package",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -28,6 +28,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "photojournalism-electroconvulsive": "^1.0.3"
+    "photojournalism-electroconvulsive": "^1.0.4"
   }
 }
