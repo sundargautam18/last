@@ -1,2 +1,3 @@
-import "photojournalism-electroconvulsive/dist/index.css";
-import MyComponent from "photojournalism-electroconvulsive";
+import CustomButton from "photojournalism-electroconvulsive/dist/components/Button";
+
+CustomButton;
